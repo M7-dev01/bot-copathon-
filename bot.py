@@ -1,19 +1,27 @@
+#cd .vscode
+#C:/Users/Home/.local/bin/python3.14.exe bot.py
+#"!loja",
+ #   "classic",
+ #   "peepoRiot",
+#    "Sadge",
+  #  "modCheck",
+  #  "EZ",
+  #  "duckPls",
+  #  "emojiBubbly",
+   # "emojiCheerful",
+  #  "emojiAngel",
+   # "jonvlogsEtVlogs",
+   # "!points"
 import pyautogui
 import pyperclip
 import time
 import random
 
 mensagens = [
-    "Não é pressa, é pressão!",
-    "Deus na frente e nós no vacuo",
-    "Bora",
-    "kkkk",
-    "beeBobble beeBobble beeBobble",
-    "!loja",
-    "!copathon"
+    "KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK"
 ]
 
-intervalo = 30
+intervalo = 5
 
 print("5 segundos pra clicar no chat...")
 time.sleep(5)
